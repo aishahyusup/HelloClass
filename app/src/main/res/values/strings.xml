@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FirstAppLecture</string>
+    <string name="btnHello">Hello</string>
+</resources>
